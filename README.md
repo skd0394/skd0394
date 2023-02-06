@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [InProgress](https://github.com/skd0394?tab=repositories)
 
-- 💬 Ask me about **anything (i_know ? Reply:Research)**
+- 💬 Ask me about **anything (i_know ? Reply():Research().then(res=>Reply())**
 
 - 📫 How to reach me **shivkantd1908@gmail.com**
 
