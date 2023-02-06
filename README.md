@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **a Start in Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [InProgress](InProgress)
+- 👨‍💻 All of my projects are available at [InProgress](https://github.com/skd0394?tab=repositories)
 
 - 💬 Ask me about **anything (i_know ? Reply:Research)**
 
