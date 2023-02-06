@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **shivkantd1908@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1GbMzbx3gNLgU9ozEwtzz-C-4_eUU43hk/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1ul0CqJnfQdG3EmTmZ5rB1gvJT8Q0cln5/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
