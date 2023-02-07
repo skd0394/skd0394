@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring and Passionate Full Stack Developer From Bihar, India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skd0394&label=Profile%20views&color=0e75b6&style=flat" alt="skd0394" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=skd0394&label=Profile%20views&color=0e75b6&style=flat" alt="skd0394" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skd0394" alt="skd0394" /></a> </p>
 
