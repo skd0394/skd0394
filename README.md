@@ -14,11 +14,11 @@
 
 - 🤝 I’m looking for help with **a Start in Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [InProgress](https://github.com/skd0394?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://github.com/skd0394?tab=repositories)
 
 - 💬 Ask me about **anything (i_know ? Reply():Research().then(res=>Reply())**
 
-- 📫 How to reach me **shivkantd1908@gmail.com**
+- 📫 How to reach me ``shivkantd1908@gmail.com``
 
 - 📄 Know about my experiences (https://skd0394.github.io/)
 
